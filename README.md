@@ -1,70 +1,26 @@
+<h1 align="center">似乎被遗忘了</h1>
 <div align="center">
   <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&pause=1000&color=58A6FF&center=true&vCenter=true&width=600&lines=Hi+there%2C+I'm+YOUR+NAME+👋;A+Passionate+Backend+%26+Cloud+Native+Developer;Always+Building%2C+Always+Learning...;Welcome+to+my+Digital+Garden!" alt="Typing SVG" /></a>
 </div>
+<hr>
 
-<br>
+<h3 align="center">技术栈</h3>
+<p align="center">   <img src="https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=white" />   <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white" />   <img src="https://img.shields.io/badge/C++11/14/17/20-00599C?style=for-the-badge&logo=cplusplus&logoColor=white" />   <img src="https://img.shields.io/badge/Shell-4EAA25?style=for-the-badge&logo=gnubash&logoColor=white" />   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" /> </p> <p align="center">   <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" />   <img src="https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white" />   <img src="https://img.shields.io/badge/CentOS-262577?style=for-the-badge&logo=centos&logoColor=white" />   <img src="https://img.shields.io/badge/Debian-A81D33?style=for-the-badge&logo=debian&logoColor=white" />   <img src="https://img.shields.io/badge/POSIX-FCC624?style=for-the-badge&logo=linux&logoColor=black" /> </p> <p align="center">   <img src="https://img.shields.io/badge/STL-00599C?style=for-the-badge&logo=cplusplus&logoColor=white" />   <img src="https://img.shields.io/badge/Boost-734F96?style=for-the-badge&logo=boost&logoColor=white" />   <img src="https://img.shields.io/badge/Multi_Threading-00599C?style=for-the-badge&logo=cplusplus&logoColor=white" />   <img src="https://img.shields.io/badge/OpenMP-0071C5?style=for-the-badge" /> </p> <p align="center">   <img src="https://img.shields.io/badge/Socket-4479A1?style=for-the-badge" />   <img src="https://img.shields.io/badge/TCP/IP-0078D4?style=for-the-badge" />   <img src="https://img.shields.io/badge/epoll-FCC624?style=for-the-badge&logo=linux&logoColor=black" />   <img src="https://img.shields.io/badge/libevent-FF6C37?style=for-the-badge" />   <img src="https://img.shields.io/badge/libev-CA1F24?style=for-the-badge" /> </p> <p align="center">   <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" />   <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white" />   <img src="https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white" />   <img src="https://img.shields.io/badge/SQLite-003B57?style=for-the-badge&logo=sqlite&logoColor=white" /> </p> <p align="center">   <img src="https://img.shields.io/badge/gRPC-4285F4?style=for-the-badge&logo=google&logoColor=white" />   <img src="https://img.shields.io/badge/Protobuf-4285F4?style=for-the-badge&logo=google&logoColor=white" />   <img src="https://img.shields.io/badge/Qt-41CD52?style=for-the-badge&logo=qt&logoColor=white" />   <img src="https://img.shields.io/badge/ZeroMQ-DF0000?style=for-the-badge" />   <img src="https://img.shields.io/badge/JSON-000000?style=for-the-badge&logo=json&logoColor=white" />   <img src="https://img.shields.io/badge/libcurl-073551?style=for-the-badge&logo=curl&logoColor=white" /> </p> <p align="center">   <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" />   <img src="https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white" />   <img src="https://img.shields.io/badge/Nginx-009639?style=for-the-badge&logo=nginx&logoColor=white" />   <img src="https://img.shields.io/badge/Apache-D22128?style=for-the-badge&logo=apache&logoColor=white" /> </p>
+<hr>
 
-<table width="100%">
-<tr>
-<td width="55%" valign="top">
+<h3 align="center">开发工具</h3>
+<p align="center">   <img src="https://img.shields.io/badge/GCC-1575F9?style=for-the-badge&logo=gnu&logoColor=white" />   <img src="https://img.shields.io/badge/Clang-262D3A?style=for-the-badge&logo=llvm&logoColor=white" />   <img src="https://img.shields.io/badge/CMake-064F8C?style=for-the-badge&logo=cmake&logoColor=white" />   <img src="https://img.shields.io/badge/Make-6D00CC?style=for-the-badge&logo=gnu&logoColor=white" />   <img src="https://img.shields.io/badge/Autotools-A42E2B?style=for-the-badge&logo=gnu&logoColor=white" /> </p> <p align="center">   <img src="https://img.shields.io/badge/GDB-FF6C37?style=for-the-badge&logo=gnu&logoColor=white" />   <img src="https://img.shields.io/badge/Valgrind-CA1F24?style=for-the-badge" />   <img src="https://img.shields.io/badge/strace-FF6C37?style=for-the-badge" />   <img src="https://img.shields.io/badge/ASan-FF6C37?style=for-the-badge" />   <img src="https://img.shields.io/badge/Perf-FCC624?style=for-the-badge&logo=linux&logoColor=black" />   <img src="https://img.shields.io/badge/gprof-1575F9?style=for-the-badge&logo=gnu&logoColor=white" /> </p> <p align="center">   <img src="https://img.shields.io/badge/VSCode-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white" />   <img src="https://img.shields.io/badge/CLion-000000?style=for-the-badge&logo=clion&logoColor=white" />   <img src="https://img.shields.io/badge/Visual_Studio-5C2D91?style=for-the-badge&logo=visualstudio&logoColor=white" />   <img src="https://img.shields.io/badge/Vim-019733?style=for-the-badge&logo=vim&logoColor=white" /> </p> <p align="center">   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />   <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />   <img src="https://img.shields.io/badge/GitLab-FCA121?style=for-the-badge&logo=gitlab&logoColor=white" />   <img src="https://img.shields.io/badge/Jenkins-D24939?style=for-the-badge&logo=jenkins&logoColor=white" />   <img src="https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=githubactions&logoColor=white" /> </p> </div><hr>
 
-  <h3>👨‍💻 关于我 (About Me)</h3>
-  <p>
-    一名热衷于构建健壮、可扩展软件系统的开发者。我对云原生技术和分布式架构有浓厚的兴趣，并享受通过代码解决复杂问题的过程。
-  </p>
-  <br>
-  
-  <h3>🛠️ 技术栈 (Tech Stack)</h3>
-  <p>
-    <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" alt="Java"/>
-    <img src="https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white" alt="Go"/>
-    <img src="https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white" alt="Spring"/>
-    <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python"/>
-    <br>
-    <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL"/>
-    <img src="https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white" alt="Redis"/>
-    <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker"/>
-    <img src="https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white" alt="Kubernetes"/>
-  </p>
-
-</td>
-<td width="45%" valign="top">
-
-  <h3>📊 GitHub 统计 (GitHub Stats)</h3>
-  <div align="center">
-    <img src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="GitHub Stats"/>
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages"/>
-  </div>
-  
-</td>
-</tr>
-</table>
-
-<div align="center">
-  <h3>🚀 我的置顶项目 (Pinned Projects)</h3>
-  <table width="100%">
+<h3 align="center">GitHub Stats</h3>
+<table cellspacing="0" cellpadding="0">
   <tr>
-  <td width="50%" align="center">
-    <a href="https://github.com/[YOUR_GITHUB_USERNAME]/[REPO_NAME_1]">
-      <img src="https://github-readme-stats.vercel.app/api/pin/?username=YOUR_GITHUB_USERNAME&repo=REPO_NAME_1&theme=tokyonight&hide_border=true" alt="Project 1"/>
-    </a>
-  </td>
-  <td width="50%" align="center">
-    <a href="https://github.com/[YOUR_GITHUB_USERNAME]/[REPO_NAME_2]">
-      <img src="https://github-readme-stats.vercel.app/api/pin/?username=YOUR_GITHUB_USERNAME&repo=REPO_NAME_2&theme=tokyonight&hide_border=true" alt="Project 2"/>
-    </a>
-  </td>
+    <td align="center"><img src="https://github-readme-stats.vercel.app/api?username=MIHHHIM&theme=transparent&hide_border=true&include_all_commits=true&no-bg=true&rank_icon=github"></td>
+    <td align="center"><img width="350" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MIHHHIM&theme=transparent&hide_border=true&include_all_commits=false&count_private=false&layout=compact&no-bg=true"></td>
   </tr>
-  </table>
-</div>
+  <tr>
+    <td align="center"><img src="https://github-readme-streak-stats.herokuapp.com/?user=MIHHHIM&theme=transparent&hide_border=true&no-bg=true"></td>
+    <td align="center"><img src="https://github-profile-trophy.vercel.app/?username=MIHHHIM&theme=algolia&row=2&column=4&margin-w=5&margin-h=5&no-bg=true&hide_border=true"></td>
+  </tr>
+</table>
+<hr>
 
-<br>
-
-<div align="center">
-  <h3>🌐 联系我 (Connect With Me)</h3>
-  <p>
-    <a href="mailto:your.email@example.com"><img src="https://img.shields.io/badge/GMAIL-c71610?style=for-the-badge&logo=gmail&logoColor=white" /></a>
-    <a href="https://linkedin.com/in/your-linkedin-profile"><img src="https://img.shields.io/badge/LINKEDIN-0077b5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-    <a href="https://your-blog-url.com"><img src="https://img.shields.io/badge/BLOG-20232A?style=for-the-badge&logo=wordpress&logoColor=white" /></a>
-  </p>
-</div>

@@ -1,41 +1,59 @@
 <div align="center">
-
-  <a href="https://github.com/ID-ZYH">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=32&pause=1000&color=FFFFFF&center=true&width=500&lines=似乎被遗忘了;Digital+Craftsman;Code+%26+Reverie" alt="Typing SVG: 似乎被遗忘了; Digital Craftsman; Code & Reverie" />
-  </a>
-
-  <br>
-
-  <blockquote>
-    一位在数字世界里，安静留下足迹的开发者。
-  </blockquote>
-
-  <br>
-
-  <p align="center">
-    <strong>Languages:</strong> &nbsp; Go &nbsp;·&nbsp; TypeScript &nbsp;·&nbsp; Python &nbsp;·&nbsp; Dart
-    <br>
-    <strong>Frameworks:</strong> &nbsp; Gin &nbsp;·&nbsp; Vue.js &nbsp;·&nbsp; Flutter &nbsp;·&nbsp; FastAPI
-    <br>
-    <strong>Tools & Infra:</strong> &nbsp; Docker &nbsp;·&nbsp; Kubernetes &nbsp;·&nbsp; PostgreSQL &nbsp;·&nbsp; Redis &nbsp;·&nbsp; Git
-  </p>
+<br>
+<br>
+<table width="100%"><tr><td width="100%">
   
+<h1 align="center">YOUR NAME / YOUR ID</h1>
+
+<h3 align="center">Backend Developer | Tech Enthusiast | Lifelong Learner</h3>
+
+</td></tr></table>
+<br>
+
+<table width="600px">
+  <tr><td width="100%"><hr></td></tr>
+  <tr><td align="center">
+    <i>"Talk is cheap. Show me the code."</i>
+  </td></tr>
+  <tr><td width="100%"><hr></td></tr>
+</table>
+<br>
+
+<table><tr><td width="100%">
+<h3 align="center">🔧 技术栈 / Tech Stack</h3>
+<br>
+<p align="center">
+  <a href="#"><img src="https://img.shields.io/badge/Java-000000?style=for-the-badge&logo=openjdk&logoColor=white" /></a>&nbsp;
+  <a href="#"><img src="https://img.shields.io/badge/Go-000000?style=for-the-badge&logo=go&logoColor=white" /></a>&nbsp;
+  <a href="#"><img src="https://img.shields.io/badge/Python-000000?style=for-the-badge&logo=python&logoColor=white" /></a>&nbsp;
+  <a href="#"><img src="https://img.shields.io/badge/Shell-000000?style=for-the-badge&logo=gnu-bash&logoColor=white" /></a>&nbsp;
   <br>
-
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/ID-ZYH/ID-ZYH/output/github-contribution-grid-snake-dark.svg">
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/ID-ZYH/ID-ZYH/output/github-contribution-grid-snake.svg">
-    <img alt="GitHub Contribution Grid Snake Animation" src="https://raw.githubusercontent.com/ID-ZYH/ID-ZYH/output/github-contribution-grid-snake.svg">
-  </picture>
-
+  <a href="#"><img src="https://img.shields.io/badge/Spring-000000?style=for-the-badge&logo=spring&logoColor=white" /></a>&nbsp;
+  <a href="#"><img src="https://img.shields.io/badge/Gin-000000?style=for-the-badge&logo=go&logoColor=white" /></a>&nbsp;
+  <a href="#"><img src="https://img.shields.io/badge/MyBatis-000000?style=for-the-badge&logo=mybatis&logoColor=white" /></a>&nbsp;
   <br>
+  <a href="#"><img src="https://img.shields.io/badge/MySQL-000000?style=for-the-badge&logo=mysql&logoColor=white" /></a>&nbsp;
+  <a href="#"><img src="https://img.shields.io/badge/Redis-000000?style=for-the-badge&logo=redis&logoColor=white" /></a>&nbsp;
+  <a href="#"><img src="https://img.shields.io/badge/PostgreSQL-000000?style=for-the-badge&logo=postgresql&logoColor=white" /></a>&nbsp;
+  <br>
+  <a href="#"><img src="https://img.shields.io/badge/Docker-000000?style=for-the-badge&logo=docker&logoColor=white" /></a>&nbsp;
+  <a href="#"><img src="https://img.shields.io/badge/Kubernetes-000000?style=for-the-badge&logo=kubernetes&logoColor=white" /></a>&nbsp;
+  <a href="#"><img src="https://img.shields.io/badge/Git-000000?style=for-the-badge&logo=git&logoColor=white" /></a>&nbsp;
+  <a href="#"><img src="https://img.shields.io/badge/Linux-000000?style=for-the-badge&logo=linux&logoColor=white" /></a>&nbsp;
+</p>
+</td></tr></table>
+<br>
 
-  <p align="center">
-    <a href="mailto:your-email@example.com"><img src="https://img.shields.io/badge/Email-333?style=flat&logo=gmail&logoColor=white" alt="Email"/></a>
-    &nbsp;
-    <a href="https://your-blog-url"><img src="https://img.shields.io/badge/Blog-333?style=flat&logo=blogger&logoColor=white" alt="Blog"/></a>
-    &nbsp;
-    <a href="https://your-linkedin-url"><img src="https://img.shields.io/badge/LinkedIn-333?style=flat&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
-  </p>
-
+<table><tr><td width="100%">
+<h3 align="center">📫 联系我 / Contact Me</h3>
+<br>
+<p align="center">
+  <a href="mailto:your.email@example.com"><img src="https://img.shields.io/badge/Email-000000?style=for-the-badge&logo=gmail&logoColor=white" /></a>&nbsp;
+  <a href="https://linkedin.com/in/your-profile-name"><img src="https://img.shields.io/badge/LinkedIn-000000?style=for-the-badge&logo=linkedin&logoColor=white" /></a>&nbsp;
+  <a href="https://your-blog-url.com"><img src="https://img.shields.io/badge/Blog-000000?style=for-the-badge&logo=rss&logoColor=white" /></a>&nbsp;
+  <a href="https://x.com/your-twitter-handle"><img src="https://img.shields.io/badge/Twitter-000000?style=for-the-badge&logo=x&logoColor=white" /></a>&nbsp;
+</p>
+</td></tr></table>
+<br>
+<br>
 </div>

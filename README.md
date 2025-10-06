@@ -1,8 +1,8 @@
 <div align="center">
 
----
-
 ### Tech Stack And Dev Tools
+
+---
 
 <p>
 <a href="https://en.cppreference.com/w/" target="_blank"><img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white" alt="C++" /></a>
@@ -97,6 +97,8 @@
 ---
 
 <h3 align="center">GitHub Stats</h3>
+
+---
 <table cellspacing="0" cellpadding="0">
   <tr>
     <td align="center"><img src="https://github-readme-stats.vercel.app/api?username=MIHHHIM&theme=transparent&hide_border=true&include_all_commits=true&no-bg=true&rank_icon=github"></td>

@@ -1,35 +1,42 @@
-<h1 align="center">Welcome to [你的名字]'s Corner 👨‍💻</h1>
-<h3 align="center">A data-driven developer who turns ideas into reality.</h3>
-
----
-
-### 📈 Activity & Stats
+<h1 align="center">Hey there, I'm [你的名字]! ✨</h1>
+<p align="center">A passionate developer from [你所在的城市/国家].</p>
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=[你的GitHub用户名]&theme=github-compact" alt="activity graph"/>
+  <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100">
 </p>
 
 ---
 
-### 🔧 Technologies & Tools
+### 🚀 What I Do
 
-Here are some of the technologies I've been working with recently:
-
-| Frontend | Backend | Others |
-|---|---|---|
-| <img src="https://skillicons.dev/icons?i=react,nextjs" /> | <img src="https://skillicons.dev/icons?i=nodejs,go" /> | <img src="https://skillicons.dev/icons?i=docker,git" /> |
-| `React` `Next.js` | `Node.js` `Go` | `Docker` `Git` |
+I'm a developer who loves building amazing things. I specialize in both front-end and back-end development. My goal is to create software that is not only functional but also beautiful and intuitive.
 
 ---
 
-### 🌟 Featured Projects
+### 💻 Tech Stack
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=[你的GitHub用户名]&repo=[你的项目名]&theme=dark)](https://github.com/[你的GitHub用户名]/[你的项目名])
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=[你的GitHub用户名]&repo=[另一个项目名]&theme=dark)](https://github.com/[你的GitHub用户名]/[另一个项目名])
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=js,ts,react,vue,nodejs,python,docker,aws&perline=4" />
+  </a>
+</p>
 
 ---
 
-### 👋 Get In Touch
+### 📊 My GitHub Stats
 
-- **Blog:** [你的博客链接](https://...)
-- **LinkedIn:** [https://linkedin.com/in/你的领英用户名](https://linkedin.com/in/你的领英用户名)
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=[你的GitHub用户名]&show_icons=true&theme=radical" alt="github stats" />
+  <br/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=[你的GitHub用户名]&layout=compact&theme=radical" alt="top langs" />
+</p>
+
+---
+
+### 📫 Let's Connect!
+
+<p align="center">
+<a href="https://github.com/[你的GitHub用户名]"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" /></a>
+<a href="mailto:[你的邮箱]"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+<a href="https://linkedin.com/in/[你的领英用户名]"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+</p>

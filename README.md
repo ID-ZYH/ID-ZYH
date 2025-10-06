@@ -1,93 +1,65 @@
-<div align="center" style="position: relative; width: 100%; height: 700px; overflow: hidden; text-align: center; color: white; background-color: #1a1a1a;">
-  <img 
-    src="https://images.unsplash.com/photo-1481886756534-97af88cc7190" 
-    style="position: absolute; top: 0; left: 0; width: 100%; height: 100%; object-fit: cover; z-index: 1; filter: brightness(0.6);"
-    alt="Background"
-  />
+<div align="center">
 
-  <div style="position: relative; z-index: 2; display: flex; flex-direction: column; justify-content: center; align-items: center; width: 100%; height: 100%;">
-    <h1 style="font-size: 3.5em; font-weight: bold; margin: 0; text-shadow: 2px 2px 8px rgba(0,0,0,0.8);">
-      似乎被遗忘了
-    </h1>
-
-    <p style="font-size: 1.2em; margin-top: 15px; letter-spacing: 2px; text-shadow: 1px 1px 6px rgba(0,0,0,0.8);">
-      记录生活 | 分享思考 | 探索未知
-    </p>
-
-    <br>
-    
-    <div style="font-size: 1.1em; line-height: 1.8; max-width: 600px;">
-      <p style="margin: 5px;">欢迎来到我的个人页 这里是我记录生活点滴</p>
-      <p style="margin: 5px;">分享个人思考的空间 虽然似乎被世界遗忘了</p>
-      <p style="margin: 5px;">但我依然在这里留下自己的印记 期待与你分享</p>
-    </div>
-  </div>
-</div>
-
-<div align="center" style="padding: 40px 20px 20px 20px; background-color: #ffffff;">
-
-<table>
-  <tr>
-    <td valign="top" width="65%">
-      <div align="left" style="padding-right: 20px;">
-        <h2>
-          <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Gear.png" alt="Gear" width="35" height="35" />
-          技术栈 & 工具箱
-        </h2>
-        <p>
-          我主要使用以下技术进行开发和创造，它们是我的数字工具箱的核心。
-        </p>
-        <details>
-          <summary><b>点击展开/折叠 Google Tech Stack</b></summary>
-          <br>
-          <div align="left">
-            <p>
-              <img src="https://skillicons.dev/icons?i=gcp,firebase,flutter,dart,go,angular,kubernetes,androidstudio,tensorflow" alt="Google Tech Stack"/>
-            </p>
-          </div>
-        </details>
-        
-        <hr>
-
-        <h2>
-          <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Mailbox%20with%20Mail.png" alt="Mailbox" width="35" height="35" />
-          与我联系
-        </h2>
-        <p>
-          随时欢迎您通过以下方式与我交流，无论是技术探讨还是生活分享。
-        </p>
-        <p>
-          <a href="mailto:[YOUR_EMAIL]">
-            <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
-          </a>
-          <a href="https://github.com/[YOUR_GITHUB_USERNAME]">
-            <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
-          </a>
-          <a href="https://t.me/[YOUR_TELEGRAM_USERNAME]">
-            <img src="https://img.shields.io/badge/Telegram-26A5E4?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram"/>
-          </a>
-        </p>
-      </div>
-    </td>
-    <td valign="top" width="35%">
-      <div align="center">
-        <a href="https://github.com/[YOUR_GITHUB_USERNAME]">
-          <img src="https://github-readme-stats.vercel.app/api?username=[YOUR_GITHUB_USERNAME]&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="GitHub Stats" />
-        </a>
-        <br><br>
-        <a href="https://github.com/[YOUR_GITHUB_USERNAME]">
-          <img src="https://github-readme-streak-stats.herokuapp.com/?user=[YOUR_GITHUB_USERNAME]&theme=tokyonight&hide_border=true" alt="GitHub Streak Stats" />
-        </a>
-      </div>
-    </td>
-  </tr>
-</table>
-
-</div>
-
-<div align="center" style="padding: 20px;">
   <p>
-    <img src="https://komarev.com/ghpvc/?username=[YOUR_GITHUB_USERNAME]&label=Profile%20Views&color=blueviolet&style=flat-square" alt="Profile Views"/>
+    <img src="https://komarev.com/ghpvc/?username=your-github-username&style=for-the-badge&color=blueviolet" alt="Profile views"/>
   </p>
-  <img src="https://raw.githubusercontent.com/halfrost/halfrost/master/icons/footer_.png" width="100%" alt="Footer Banner"/>
+
+  <h1>
+    <a href="https://github.com/your-github-username">
+      <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&pause=1000&color=00BFFF&center=true&width=435&lines=Hi+There!+%F0%9F%91%8B;I'm+A+Passionate+Developer;Welcome+to+My+Profile!" alt="Typing SVG" />
+    </a>
+  </h1>
+
+  <p align="center">
+    一位热衷于开源精神的开发者 | 全栈工程师 | 技术博主<br>
+    ✨ 专注于 Go / Vue / Flutter 技术栈<br>
+    🚀 致力于构建高效、可靠且用户友好的应用程序<br>
+    📫 联系我: your-email@example.com
+  </p>
+
+  <br>
+
+  <h2 align="center">🛠️ 技术栈 / Tech Stack</h2>
+  <p align="center">
+    <a href="https://vuejs.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/vuejs-original-wordmark.svg" alt="Vue.js" height="50" /></a>
+    <a href="https://www.typescriptlang.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/typescript-original.svg" alt="TypeScript" height="50" /></a>
+    <a href="https://en.wikipedia.org/wiki/HTML5" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/html5-original-wordmark.svg" alt="HTML5" height="50" /></a>
+    <a href="https://www.w3.org/TR/CSS3/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/css3-original-wordmark.svg" alt="CSS3" height="50" /></a>
+    <a href="https://go.dev/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/go-original.svg" alt="Go" height="50" /></a>
+    <a href="https://www.python.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/python-original.svg" alt="Python" height="50" /></a>
+    <a href="https://www.java.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/java-original-wordmark.svg" alt="Java" height="50" /></a>
+    <a href="https://www.docker.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/docker-original-wordmark.svg" alt="Docker" height="50" /></a>
+    <a href="https://www.mysql.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/mysql-original-wordmark.svg" alt="MySQL" height="50" /></a>
+    <a href="https://redis.io/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/redis-original.svg" alt="Redis" height="50" /></a>
+    <a href="https://flutter.dev/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/flutter-original.svg" alt="Flutter" height="50" /></a>
+    <a href="https://kotlinlang.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/kotlin-original-wordmark.svg" alt="Kotlin" height="50" /></a>
+  </p>
+
+  <br>
+
+  <h2 align="center">📊 GitHub 统计 / Stats</h2>
+  <p align="center">
+    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=your-github-username&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true" alt="GitHub Stats" />
+    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=your-github-username&layout=compact&langs_count=8&theme=tokyonight" alt="Top Languages" />
+  </p>
+  
+  <br>
+
+  <h2 align="center">🐍 贡献图 / Contribution Graph</h2>
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/your-github-username/your-github-username/output/github-contribution-grid-snake-dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/your-github-username/your-github-username/output/github-contribution-grid-snake.svg">
+    <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/your-github-username/your-github-username/output/github-contribution-grid-snake.svg">
+  </picture>
+
+  <br>
+
+  <h2 align="center">📬 联系我 / Connect with Me</h2>
+  <p align="center">
+    <a href="https://your-linkedin-url" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0A66C2.svg?style=for-the-badge&logo=LinkedIn&logoColor=white" alt="LinkedIn"/></a>
+    <a href="mailto:your-email@example.com"><img src="https://img.shields.io/badge/Email-D14836.svg?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/></a>
+    <a href="https://your-blog-url" target="_blank"><img src="https://img.shields.io/badge/Blog-2A628F.svg?style=for-the-badge&logo=blogger&logoColor=white" alt="Blog"/></a>
+    <a href="https://your-twitter-url" target="_blank"><img src="https://img.shields.io/badge/Twitter-1DA1F2.svg?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter"/></a>
+  </p>
+
 </div>

@@ -1,33 +1,42 @@
-# Hi, I'm [你的名字] 👋
+<h1 align="center">Hey there, I'm [你的名字]! ✨</h1>
+<p align="center">A passionate developer from [你所在的城市/国家].</p>
 
-<a href="https://linkedin.com/in/你的领英用户名" target="blank"><img align="center" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="你的领英用户名" /></a>
-<a href="https://twitter.com/你的推特用户名" target="blank"><img align="center" src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="你的推特用户名" /></a>
-
----
-
-### 👨‍💻 About Me
-
-- 🔭 I’m currently working on **[你正在进行的项目或技术]**
-- 🌱 I’m currently learning **[你正在学习的技术]**
-- 💬 Ask me about **[你擅长的领域, e.g., React, Node.js, Python]**
-- 📫 How to reach me: **[你的邮箱地址]**
-- 😄 Pronouns: **[你的代词, e.g., He/Him, She/Her]**
+<p align="center">
+  <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100">
+</p>
 
 ---
 
-### 🛠️ My Skills
+### 🚀 What I Do
 
-- **Frontend:** `React` `Vue` `JavaScript` `TypeScript` `HTML5` `CSS3`
-- **Backend:** `Node.js` `Python` `Java` `Go`
-- **Database:** `MySQL` `PostgreSQL` `MongoDB`
-- **DevOps:** `Docker` `Kubernetes` `Git` `CI/CD`
-- **Cloud:** `AWS` `Google Cloud`
+I'm a developer who loves building amazing things. I specialize in both front-end and back-end development. My goal is to create software that is not only functional but also beautiful and intuitive.
 
 ---
 
-### 🚀 My Projects
+### 💻 Tech Stack
 
-| Project | Description | Link |
-|---|---|---|
-| **项目一** | 一个关于...的很酷的项目。 | [Link](https://github.com/你的用户名/项目一) |
-| **项目二** | 另一个关于...的很棒的项目。 | [Link](https://github.com/你的用户名/项目二) |
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=js,ts,react,vue,nodejs,python,docker,aws&perline=4" />
+  </a>
+</p>
+
+---
+
+### 📊 My GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=[你的GitHub用户名]&show_icons=true&theme=radical" alt="github stats" />
+  <br/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=[你的GitHub用户名]&layout=compact&theme=radical" alt="top langs" />
+</p>
+
+---
+
+### 📫 Let's Connect!
+
+<p align="center">
+<a href="https://github.com/[你的GitHub用户名]"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" /></a>
+<a href="mailto:[你的邮箱]"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+<a href="https://linkedin.com/in/[你的领英用户名]"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+</p>

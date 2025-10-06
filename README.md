@@ -84,3 +84,10 @@
 </table>
 
 </div>
+
+<div align="center" style="padding: 20px;">
+  <p>
+    <img src="https://komarev.com/ghpvc/?username=[YOUR_GITHUB_USERNAME]&label=Profile%20Views&color=blueviolet&style=flat-square" alt="Profile Views"/>
+  </p>
+  <img src="https://raw.githubusercontent.com/halfrost/halfrost/master/icons/footer_.png" width="100%" alt="Footer Banner"/>
+</div>

@@ -1,93 +1,99 @@
+<div align="center">
+  <img src="https://raw.githubusercontent.com/halfrost/halfrost/master/icons/header_.png" width="100%" alt="Header Banner"/>
+</div>
 
-				HTML
-				
-					
-				
-				
-						
-				
-			<table width="100%" cellspacing="0" cellpadding="0" border="0">
-<tbody>
+<div align="center">
+  <h1>
+    <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Waving%20Hand.png" alt="Waving Hand" width="40" height="40" />
+    Hey there! I'm [你的名字或昵称]
+    <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Waving%20Hand.png" alt="Waving Hand" width="40" height="40" />
+  </h1>
+</div>
 
-<tr>
-  <td align="center" style="padding-top: 20px; padding-bottom: 10px;">
-    <h1 style="font-size: 2.5em; font-weight: bold; margin: 0;">似乎被遗忘了 🍂</h1>
-    <p style="font-size: 1.2em; color: #586069; margin: 10px 0 0 0;">记录生活 | 分享思考 | 探索未知</p>
-    <p style="font-size: 2em; margin: 10px 0 20px 0;">👨‍💻</p>
-  </td>
-</tr>
+<div align="center">
+  <p><b>A Passionate [你的职业, e.g., Full-Stack Developer] From [你所在的城市]</b></p>
+  <p>🚀 Exploring new technologies and building cool things. 🚀</p>
+</div>
 
-<tr>
-  <td style="padding: 20px 0;">
-    <table width="100%" cellspacing="0" cellpadding="0" border="0">
-      <tr>
-        <td align="center">
-          <h2 style="margin: 0; padding-bottom: 10px; border-bottom: 1px solid #eaecef;">🌟 我的世界 (My Space)</h2>
-          <p style="text-align: center; max-width: 600px; margin: 15px auto; line-height: 1.6; color: #333;">
-            我是一位好奇心旺盛的创作者，热衷于在代码与生活之间寻找平衡点。我的数字足迹，就是我思考的轨迹，是我探索未知世界的印记。在这里，我记录每一次灵感闪现，分享每一份学习心得，并勇敢地迈向那些未曾涉足的领域。
-          </p>
-        </td>
-      </tr>
-    </table>
-  </td>
-</tr>
+<br>
 
-<tr>
-  <td align="center" style="padding: 20px 0;">
-    <h2 style="margin: 0; padding-bottom: 10px; border-bottom: 1px solid #eaecef;">🛠️ 技术栈 (Tech Stack)</h2>
-    <p style="padding-top: 15px;">
-      <img src="https://img.shields.io/badge/Google_Cloud-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white" alt="Google Cloud" style="margin: 5px;"/>
-      <img src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white" alt="Flutter" style="margin: 5px;"/>
-      <img src="https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=white" alt="Firebase" style="margin: 5px;"/>
-      <img src="https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white" alt="Android" style="margin: 5px;"/>
-      <img src="https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white" alt="Go" style="margin: 5px;"/>
-    </p>
-  </td>
-</tr>
+<div align="center">
+  <div style="display: inline-block; text-align: center;">
+    <a href="https://github.com/Your-Username">
+      <img src="https://github-readme-stats.vercel.app/api?username=Your-Username&show_icons=true&theme=dracula&hide_border=true&count_private=true" alt="GitHub Stats" height="150"/>
+    </a>
+  </div>
+  <div style="display: inline-block; text-align: center;">
+    <a href="https://github.com/Your-Username">
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Your-Username&layout=compact&theme=dracula&hide_border=true" alt="Top Languages" height="150"/>
+    </a>
+  </div>
+</div>
 
-<tr>
-  <td style="padding: 20px 0;">
-    <table width="100%" cellspacing="0" cellpadding="0" border="0">
-      <tr>
-        <td width="50%" valign="top" style="padding-right: 15px;">
-          <h2 style="margin-top: 0; padding-bottom: 10px; border-bottom: 1px solid #eaecef;">📝 近期动态 (Recent Activity)</h2>
-          <ul style="line-height: 1.8; color: #333;">
-            <li>📖 最近在阅读 <strong>《[书名]》</strong>，感触颇深。</li>
-            <li>💡 正在构思一个关于 <strong>[你的新想法/小项目]</strong> 的原型。</li>
-            <li>🔗 我的最新博客文章：<a href="[文章链接]" target="_blank"><strong>[文章标题]</strong></a></li>
-          </ul>
-        </td>
-        <td width="50%" valign="top" align="center" style="padding-left: 15px;">
-           <img src="https://github-readme-stats.vercel.app/api?username=[你的GitHub用户名]&show_icons=true&theme=vue&hide_border=true&include_all_commits=true" alt="GitHub Stats"/>
-        </td>
-      </tr>
-    </table>
-  </td>
-</tr>
+<br>
 
-<tr>
-  <td align="center" style="padding: 30px 0;">
-    <h2 style="margin: 0; padding-bottom: 10px; border-bottom: 1px solid #eaecef;">👋 保持联系 (Connect with Me)</h2>
-    <p style="padding-top: 15px;">
-      <a href="mailto:[你的邮箱地址]" target="_blank" style="margin: 0 5px;"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"></a>
-      <a href="https://www.linkedin.com/in/[你的领英用户名]" target="_blank" style="margin: 0 5px;"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
-      <a href="https://github.com/[你的GitHub用户名]" target="_blank" style="margin: 0 5px;"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"></a>
-      <a href="[你的个人博客/网站链接]" target="_blank" style="margin: 0 5px;"><img src="https://img.shields.io/badge/Blog-34A853?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Blog"></a>
-    </p>
-  </td>
-</tr>
+<div align="center">
+  <h2>
+    <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Alien.png" alt="Alien" width="40" height="40" />
+    My Tech Stack
+    <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Alien.png" alt="Alien" width="40" height="40" />
+  </h2>
+</div>
 
-</tbody>
-</table>xxxxxxxxxx <p align="center">  <a href="mailto:[你的邮箱地址]" target="_blank">    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail">  </a>  <a href="https://www.linkedin.com/in/[你的领英用户名]" target="_blank">    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">  </a>  <a href="https://github.com/[你的GitHub用户名]" target="_blank">      <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub">  </a>  <a href="[你的个人博客/网站链接]" target="_blank">      <img src="https://img.shields.io/badge/Blog-34A853?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Blog">  </a></p>
-  
-    
-  
-  
-    
-  
-  
-      
-  
-  
-      
-  
+<div align="center">
+  <p>
+    <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript"/>
+    <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript"/>
+    <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React"/>
+    <img src="https://img.shields.io/badge/Vue.js-35495E?style=for-the-badge&logo=vuedotjs&logoColor=4FC08D" alt="Vue.js"/>
+    <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" alt="Node.js"/>
+    <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python"/>
+  </p>
+  <p>
+    <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5"/>
+    <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3"/>
+    <img src="https://img.shields.io/badge/Sass-CC6699?style=for-the-badge&logo=sass&logoColor=white" alt="Sass"/>
+    <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker"/>
+    <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git"/>
+    <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL"/>
+  </p>
+</div>
+
+<br>
+
+<div align="center">
+  <h2>
+    <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/High-Speed%20Train.png" alt="High-Speed Train" width="40" height="40" />
+    Connect with Me
+    <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/High-Speed%20Train.png" alt="High-Speed Train" width="40" height="40" />
+  </h2>
+</div>
+
+<div align="center">
+  <p>
+    <a href="mailto:你的邮箱@example.com">
+      <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
+    </a>
+    <a href="https://www.linkedin.com/in/你的领英ID/">
+      <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+    </a>
+    <a href="https://space.bilibili.com/你的B站主页链接">
+      <img src="https://img.shields.io/badge/Bilibili-00A1D6?style=for-the-badge&logo=bilibili&logoColor=white" alt="Bilibili"/>
+    </a>
+    <a href="https://www.zhihu.com/people/你的知乎ID">
+      <img src="https://img.shields.io/badge/Zhihu-0084FF?style=for-the-badge&logo=zhihu&logoColor=white" alt="Zhihu"/>
+    </a>
+  </p>
+</div>
+
+<br>
+
+<div align="center">
+  <p>
+    <img src="https://komarev.com/ghpvc/?username=Your-Username&label=Profile%20Views&color=blueviolet&style=flat-square" alt="Profile Views"/>
+  </p>
+</div>
+
+<div align="center">
+  <img src="https://raw.githubusercontent.com/halfrost/halfrost/master/icons/footer_.png" width="100%" alt="Footer Banner"/>
+</div>

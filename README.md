@@ -1,4 +1,4 @@
-<hr style="height: 1px; border: none; background-color: #ddd;">
+![](https://via.placeholder.com/800x1/dddddd/dddddd)
 <h3 align="center">技术栈</h3>
 <p align="center" style="margin: 5px 0;">
     <a href="https://en.cppreference.com/w/" target="_blank"><img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white" alt="C++" /></a>

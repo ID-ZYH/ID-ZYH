@@ -1,5 +1,5 @@
 <hr/>
-<h3 align="center">Tech Stack</h3>
+<h3 align="center">Tech Stack And Dev Tools</h3>
 
 <p align="center">
   <a href="https://en.cppreference.com/w/" target="_blank"><img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white" alt="C++" /></a>
@@ -71,7 +71,6 @@
 </p>
 
 <hr/>
-<h3 align="center">Dev Tools</h3>
 
 <p align="center">
   <a href="https://gcc.gnu.org/" target="_blank"><img src="https://img.shields.io/badge/GCC-1575F9?style=for-the-badge&logo=gnu&logoColor=white" alt="GCC" /></a>

@@ -1,8 +1,8 @@
 <div align="center">
 
-# 似乎被遗忘了
+---
 
-### Tech Stack
+### Tech Stack And Dev Tools
 
 <p>
 <a href="https://en.cppreference.com/w/" target="_blank"><img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white" alt="C++" /></a>
@@ -57,8 +57,6 @@
 
 ---
 
-### Dev Tools
-
 <p>
 <a href="https://gcc.gnu.org/" target="_blank"><img src="https://img.shields.io/badge/GCC-1575F9?style=for-the-badge&logo=gnu&logoColor=white" alt="GCC" /></a>
 <a href="https://clang.llvm.org/" target="_blank"><img src="https://img.shields.io/badge/Clang-262D3A?style=for-the-badge&logo=llvm&logoColor=white" alt="Clang" /></a>
@@ -105,5 +103,6 @@
     <td align="center"><img width="350" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MIHHHIM&theme=transparent&hide_border=true&include_all_commits=false&count_private=false&layout=compact&no-bg=true"></td>
   </tr>
 </table>
-
 </div>
+
+---

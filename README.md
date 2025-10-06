@@ -53,7 +53,7 @@
 <a href="https://www.tensorflow.org/" target="_blank"><img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white" alt="TensorFlow" /></a>
 </p>
 
-<hr style="height:1px; border:none; background-color:#ddd; margin:20px 0;">
+<img width="100%" height="1" src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" alt="divider">
 
 ### 开发工具
 

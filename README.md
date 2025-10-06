@@ -1,4 +1,4 @@
-<hr/>
+
 <h3 align="center">GitHub Stats</h3>
 <table cellspacing="0" cellpadding="0">
   <tr>

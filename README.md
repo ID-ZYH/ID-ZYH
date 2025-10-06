@@ -1,6 +1,6 @@
 <div align="center">
 
-### 技术栈
+### Tech Stack
 
 <p>
 <a href="https://en.cppreference.com/w/" target="_blank"><img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white" alt="C++" /></a>
@@ -53,9 +53,9 @@
 <a href="https://www.tensorflow.org/" target="_blank"><img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white" alt="TensorFlow" /></a>
 </p>
 
-<img width="100%" src="https://via.placeholder.com/1200x1/d0d7de/d0d7de.png" alt="divider">
+---
 
-### 开发工具
+### Dev Tools
 
 <p>
 <a href="https://gcc.gnu.org/" target="_blank"><img src="https://img.shields.io/badge/GCC-1575F9?style=for-the-badge&logo=gnu&logoColor=white" alt="GCC" /></a>

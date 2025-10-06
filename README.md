@@ -1,14 +1,4 @@
-
-<h3 align="center">GitHub Stats</h3>
-<table cellspacing="0" cellpadding="0">
-  <tr>
-    <td align="center"><img src="https://github-readme-stats.vercel.app/api?username=MIHHHIM&theme=transparent&hide_border=true&include_all_commits=true&no-bg=true&rank_icon=github"></td>
-    <td align="center"><img width="350" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MIHHHIM&theme=transparent&hide_border=true&include_all_commits=false&count_private=false&layout=compact&no-bg=true"></td>
-  </tr>
-</table>
-
-<hr/>
-<h3 align="center">Tech Stack And Dev Tools</h3>
+<h3 align="center">Tech Stack And Tools</h3>
 
 <p align="center">
   <a href="https://en.cppreference.com/w/" target="_blank"><img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white" alt="C++" /></a>
@@ -79,6 +69,8 @@
   <a href="https://www.tensorflow.org/" target="_blank"><img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white" alt="TensorFlow" /></a>
 </p>
 
+<hr/>
+
 <p align="center">
   <a href="https://gcc.gnu.org/" target="_blank"><img src="https://img.shields.io/badge/GCC-1575F9?style=for-the-badge&logo=gnu&logoColor=white" alt="GCC" /></a>
   <a href="https://clang.llvm.org/" target="_blank"><img src="https://img.shields.io/badge/Clang-262D3A?style=for-the-badge&logo=llvm&logoColor=white" alt="Clang" /></a>
@@ -118,6 +110,7 @@
   <a href="https://jupyter.org/" target="_blank"><img src="https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white" alt="Jupyter" /></a>
 </p>
 
+
 <p align="center">
   <a href="https://www.jenkins.io/" target="_blank"><img src="https://img.shields.io/badge/Jenkins-D24939?style=for-the-badge&logo=jenkins&logoColor=white" alt="Jenkins" /></a>
   <a href="https://github.com/features/actions" target="_blank"><img src="https://img.shields.io/badge/Actions-2088FF?style=for-the-badge&logo=githubactions&logoColor=white" alt="Actions" /></a>
@@ -125,5 +118,14 @@
   <a href="https://www.ansible.com/" target="_blank"><img src="https://img.shields.io/badge/Ansible-EE0000?style=for-the-badge&logo=ansible&logoColor=white" alt="Ansible" /></a>
   <a href="https://prometheus.io/" target="_blank"><img src="https://img.shields.io/badge/Prometheus-E6522C?style=for-the-badge&logo=prometheus&logoColor=white" alt="Prometheus" /></a>
   <a href="https://grafana.com/" target="_blank"><img src="https://img.shields.io/badge/Grafana-F46800?style=for-the-badge&logo=grafana&logoColor=white" alt="Grafana" /></a>
-</p><hr/>
+</p>
+
+<hr/>
+<h3 align="center">GitHub Stats</h3>
+<table cellspacing="0" cellpadding="0">
+  <tr>
+    <td align="center"><img src="https://github-readme-stats.vercel.app/api?username=MIHHHIM&theme=transparent&hide_border=true&include_all_commits=true&no-bg=true&rank_icon=github"></td>
+    <td align="center"><img width="350" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MIHHHIM&theme=transparent&hide_border=true&include_all_commits=false&count_private=false&layout=compact&no-bg=true"></td>
+  </tr>
+</table>
 

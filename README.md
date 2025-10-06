@@ -1,36 +1,42 @@
 <h1 align="center">你好，我是 [你的名字] 👋</h1>
 
-<h3 align="center">一位坐标[你所在的城市]的[你的角色]，热衷于用代码构建美观且实用的解决方案。</h3>
+<h3 align="center">一位专注的[你的角色]，致力于构建优雅、高效的数字体验。</h3>
 
 <br>
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=[你的GitHub用户名]&show_icons=true&theme=material_palenight&hide_border=true&include_all_commits=true" alt="GitHub Stats">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=[你的GitHub用户名]&layout=compact&theme=material_palenight&hide_border=true" alt="Top Languages">
+  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript">
+  <img src="https://img.shields.io/badge/React-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB" alt="React">
+  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" alt="Node.js">
+  <img src="https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white" alt="Kubernetes">
 </div>
 
 ---
 
-### 🛠️ 技术栈 (Tech Stack)
+### 🚀 关于我 (About Me)
 
-<p align="center">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=ts,react,nodejs,gcp,kubernetes,docker,figma&perline=7" />
-  </a>
-</p>
+我热衷于探索从前端交互到后端架构的全栈技术。我相信最好的产品源于对细节的极致追求和对用户体验的深刻理解。
+
+* 🌱 我最近在深入学习 **[你正在学习的技术, e.g., Rust 或 WebAssembly]**。
+* 🔭 我目前正专注于 **[你正在进行的项目或领域]**。
+* 💬 欢迎与我交流任何关于 **[你擅长的领域, e.g., 云原生、大前端]** 的话题。
 
 ---
 
-### 🔗 保持联系 (Stay in Touch)
+### 📊 GitHub 统计
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=[你的GitHub用户名]&show_icons=true&theme=transparent&hide_border=true&include_all_commits=true&count_private=true" alt="GitHub Stats" width="48%"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=[你的GitHub用户名]&layout=compact&theme=transparent&hide_border=true" alt="Top Languages" width="48%"/>
+</div>
+
+---
+
+### 📫 联系我 (Get in Touch)
 
 <p align="center">
   <a href="mailto:[你的邮箱地址]" target="_blank">
-    <img src="https://img.shields.io/badge/Email-EA4335?style=flat-square&logo=gmail&logoColor=white" alt="Email">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail">
   </a>
   <a href="https://www.linkedin.com/in/[你的领英用户名]" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn">
-  </a>
-  <a href="[你的个人博客或网站链接]" target="_blank">
-      <img src="https.img.shields.io/badge/Blog-4285F4?style=flat-square&logo=google-chrome&logoColor=white" alt="Blog">
-  </a>
-</p>
+    <img src="

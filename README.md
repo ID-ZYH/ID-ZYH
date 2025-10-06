@@ -1,5 +1,7 @@
 <div align="center">
 
+---
+
 ### Tech Stack
 
 <p>
@@ -93,5 +95,15 @@
 <a href="https://prometheus.io/" target="_blank"><img src="https://img.shields.io/badge/Prometheus-E6522C?style=for-the-badge&logo=prometheus&logoColor=white" alt="Prometheus" /></a>
 <a href="https://grafana.com/" target="_blank"><img src="https://img.shields.io/badge/Grafana-F46800?style=for-the-badge&logo=grafana&logoColor=white" alt="Grafana" /></a>
 </p>
+
+---
+
+<h3 align="center">GitHub Stats</h3>
+<table cellspacing="0" cellpadding="0">
+  <tr>
+    <td align="center"><img src="https://github-readme-stats.vercel.app/api?username=MIHHHIM&theme=transparent&hide_border=true&include_all_commits=true&no-bg=true&rank_icon=github"></td>
+    <td align="center"><img width="350" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MIHHHIM&theme=transparent&hide_border=true&include_all_commits=false&count_private=false&layout=compact&no-bg=true"></td>
+  </tr>
+</table>
 
 </div>

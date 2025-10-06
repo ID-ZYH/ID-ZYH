@@ -1,42 +1,47 @@
 <h1 align="center">你好，我是 [你的名字] 👋</h1>
 
-<h3 align="center">一位专注的[你的角色]，致力于构建优雅、高效的数字体验。</h3>
+<h3 align="center">一位坐标[你所在的城市]的[你的角色]，热衷于用代码构建美观且实用的解决方案。</h3>
 
 <br>
 
 <div align="center">
-  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript">
-  <img src="https://img.shields.io/badge/React-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB" alt="React">
-  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" alt="Node.js">
-  <img src="https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white" alt="Kubernetes">
+  <h3>核心能力</h3>
+  <p>
+    <img src="https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white" alt="Go">
+    <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python">
+    <img src="https://img.shields.io/badge/React-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB" alt="React">
+    <img src="https://img.shields.io/badge/Google_Cloud-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white" alt="Google Cloud">
+    <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker">
+  </p>
 </div>
 
 ---
 
-### 🚀 关于我 (About Me)
+### 🚀 我在做什么 (What I'm Working On)
 
-我热衷于探索从前端交互到后端架构的全栈技术。我相信最好的产品源于对细节的极致追求和对用户体验的深刻理解。
+我总是在探索新的技术，并乐于将想法变为现实。
 
-* 🌱 我最近在深入学习 **[你正在学习的技术, e.g., Rust 或 WebAssembly]**。
-* 🔭 我目前正专注于 **[你正在进行的项目或领域]**。
-* 💬 欢迎与我交流任何关于 **[你擅长的领域, e.g., 云原生、大前端]** 的话题。
-
----
-
-### 📊 GitHub 统计
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=[你的GitHub用户名]&show_icons=true&theme=transparent&hide_border=true&include_all_commits=true&count_private=true" alt="GitHub Stats" width="48%"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=[你的GitHub用户名]&layout=compact&theme=transparent&hide_border=true" alt="Top Languages" width="48%"/>
-</div>
+- **项目A:** 正在构建一个基于 [某技术] 的 [项目简介]。
+- **学习:** 最近在深入研究 [某领域]，例如 [具体技术点]。
+- **分享:** 我会不定期在我的 [博客/公众号] 上分享技术文章。
 
 ---
 
-### 📫 联系我 (Get in Touch)
+### 📫 如何找到我 (Connect with Me)
 
-<p align="center">
+希望与你交流，无论是技术还是其他有趣的话题。
+
+<p align="left">
   <a href="mailto:[你的邮箱地址]" target="_blank">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail">
   </a>
   <a href="https://www.linkedin.com/in/[你的领英用户名]" target="_blank">
-    <img src="
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
+  </a>
+  <a href="https://github.com/[你的GitHub用户名]" target="_blank">
+      <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub">
+  </a>
+  <a href="[你的个人博客或网站链接]" target="_blank">
+      <img src="https.img.shields.io/badge/Website-4285F4?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Website">
+  </a>
+</p>

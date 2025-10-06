@@ -70,7 +70,7 @@
   <a href="https://www.tensorflow.org/" target="_blank"><img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white" alt="TensorFlow" /></a>
 </p>
 
-<hr/>
+
 
 <p align="center">
   <a href="https://gcc.gnu.org/" target="_blank"><img src="https://img.shields.io/badge/GCC-1575F9?style=for-the-badge&logo=gnu&logoColor=white" alt="GCC" /></a>
